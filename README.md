@@ -2,11 +2,12 @@ Getting started with Next.js
 
 Built With
 
-Next.js 14 - React framework with App Router
-React.js - Frontend library
-Tailwind CSS - Utility-first CSS framework
-JavaScript - Programming language
-Vercel - Deployment platform
+```
+Next.js 14
+React.js 
+Tailwind CSS 
+JavaScript 
+```
 
 Features
 ```

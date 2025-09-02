@@ -1,0 +1,20 @@
+Quick Wins (30 min each):
+
+Make contact form functional - Use Formspree or Netlify Forms
+Add "Back to top" button - For better UX on long pages
+Improve blog post formatting - Better code syntax highlighting
+Add loading states - Show loading spinners during navigation
+
+Medium Effort (1-2 hours each):
+
+Add dark mode toggle - Popular feature for developer blogs
+Custom domain - Buy a domain like nazmulhaque.dev
+Google Analytics - Track your blog visitors
+Blog search functionality - Help visitors find posts
+
+Advanced Features (2+ hours each):
+
+CMS integration - Use Contentful/Strapi for easy blog management
+RSS feed - Let people subscribe to your blog
+Comment system - Add Disqus or similar
+Newsletter signup - Collect email subscribers

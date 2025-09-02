@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className='min-h-screen bg-gray-50'>
+    <main className='min-h-screen bg-gray-50 pt-4'>
       <div className='container mx-auto px-4 py-8'>
         {/* Hero Section */}
         <section className='text-center mb-12'>
@@ -59,3 +59,4 @@ export default function Home() {
     </main>
   );
 }
+

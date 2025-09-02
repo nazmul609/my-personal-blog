@@ -1,6 +1,6 @@
-Getting started with Next.js
+### Getting started with Next.js
 
-Built With
+### Built With
 
 ```
 Next.js 14
@@ -9,20 +9,8 @@ Tailwind CSS
 JavaScript 
 ```
 
-Features
+### 📁 Project Structure
 ```
-Fully Responsive Design - Works on desktop, tablet, and mobile
-Professional Portfolio - Showcases projects, skills, and experience
-Blog System - Dynamic routing for individual blog posts
-Clean Navigation - Header with mobile hamburger menu
-Contact Page - Professional contact form and information
-SEO Optimized - Proper meta tags and structure
-Modern UI/UX - Clean, professional design with hover effects
-Custom 404 Page - Branded error handling
-```
-
-```
-📁 Project Structure
 my-personal-blog/
 ├── src/
 │ ├── app/

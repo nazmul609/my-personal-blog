@@ -1,6 +1,6 @@
 Getting started with Next.js
 
-🛠️ Built With
+Built With
 
 Next.js 14 - React framework with App Router
 React.js - Frontend library
@@ -8,8 +8,8 @@ Tailwind CSS - Utility-first CSS framework
 JavaScript - Programming language
 Vercel - Deployment platform
 
-✨ Features
-
+Features
+```
 Fully Responsive Design - Works on desktop, tablet, and mobile
 Professional Portfolio - Showcases projects, skills, and experience
 Blog System - Dynamic routing for individual blog posts
@@ -18,7 +18,9 @@ Contact Page - Professional contact form and information
 SEO Optimized - Proper meta tags and structure
 Modern UI/UX - Clean, professional design with hover effects
 Custom 404 Page - Branded error handling
+```
 
+```
 📁 Project Structure
 my-personal-blog/
 ├── src/
@@ -39,6 +41,7 @@ my-personal-blog/
 ├── public/ # Static assets
 ├── package.json # Dependencies and scripts
 └── README.md
+```
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
